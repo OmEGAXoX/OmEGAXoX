@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OmEGA
+- 👋 Hi, I’m Aryan Giri
 - 👀 I’m interested in ...HTML CSS CODING 
-- 🌱 I’m currently learning ...CSS C++ 2nd Year Btech Student
+- 🌱 I’m currently learning ...CSS C++ 1sd Year Btech Student
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Discord-OmEgA#8407
+- 📫 How to reach me ..
 
 <!---
 OmEGAXoX/OmEGAXoX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
